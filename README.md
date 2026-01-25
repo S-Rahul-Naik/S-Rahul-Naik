@@ -109,7 +109,7 @@ Focus: Trees • Graphs • DP • Patterns
 
 ### 🧩 Contribution Summary
 
-- 🔥 475+ contributions in last 12 months  
+- 🔥 620+ contributions in last 12 months  
 - 📦 Active across **50+ repositories**  
 - 🛠 Focus on **product shipping & cloud work**  
 - 🌍 Open-source contributions ramping up  
